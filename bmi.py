@@ -9,5 +9,3 @@ def bmi_category(bmi):
             return '體重過重'
     else: 
             return '過於肥胖'
-    
-    
